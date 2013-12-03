@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MasterSplinter</string>
+    <string name="action_settings">Settings</string>
+    <string name="master_splinter">Master Splinter</string>
+    <string name="green_button_text">tap to start engines</string>
+    <string name="red_button_text">tap to stop engines</string>
+    <string name="status_msg">status</string>
+
+</resources>

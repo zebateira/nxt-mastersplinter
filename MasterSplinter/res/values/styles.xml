@@ -1,0 +1,38 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="TitleFont" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="SubtitleFont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#A4C2E0</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- Colors -->
+    <color name="red_notification">#f80707</color>
+    <color name="red_notification_pressed">#B70000</color>
+    <color name="green_notification">#00DA33</color>
+    <color name="green_notification_pressed">#0DBF0D</color>
+    <color name="gray">#eaeaea</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="beige">#F5F5DC</color>
+
+</resources>
