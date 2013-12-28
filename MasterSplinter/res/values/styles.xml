@@ -30,6 +30,8 @@
     <color name="red_notification_pressed">#B70000</color>
     <color name="green_notification">#00DA33</color>
     <color name="green_notification_pressed">#0DBF0D</color>
+    <color name="blue_notification">#00A3FF</color>
+    <color name="blue_notification_pressed">#0067FF</color>
     <color name="gray">#eaeaea</color>
     <color name="black">#000000</color>
     <color name="white">#ffffff</color>

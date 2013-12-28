@@ -97,6 +97,26 @@
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:textColor="@color/beige" />
         </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/start_camera"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dip"
+            android:adjustViewBounds="true"
+            android:background="@drawable/blue_button"
+            android:clickable="false"
+            android:onClick="onClickStartCamera" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:text="@string/blue_button_text"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/beige" />
+        </FrameLayout>
     </LinearLayout>
 
     <TextView

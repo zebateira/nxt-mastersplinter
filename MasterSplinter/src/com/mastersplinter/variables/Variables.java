@@ -26,4 +26,14 @@ public class Variables {
 	public static int ROTATE_RIGHT = 2;
 	public static int ROTATE_LEFT = 3;
 	public static int MOTOR_POWER = 35;
+	public static int MORE_SPEED_RIGHT = 1;
+	public static int MORE_SPEED_LEFT = 3;
+	public static int BOTH_SAME_SPEED = 2;
+	
+	// OpenCV stuff
+	public static int COLOR_SEG = 0;
+	public static int NORMAL_MODE = 1;
+	public static int MEDIUM_VALUE = 185;
+	public static int THRESHOLD_COLOR = 45;
+
 }

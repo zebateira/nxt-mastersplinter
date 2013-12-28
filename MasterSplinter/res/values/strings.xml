@@ -6,6 +6,7 @@
     <string name="master_splinter">Master Splinter</string>
     <string name="green_button_text">tap to start engines</string>
     <string name="red_button_text">tap to stop engines</string>
+    <string name="blue_button_text">tap to start camera</string>
     <string name="status_msg">status</string>
 
 </resources>
